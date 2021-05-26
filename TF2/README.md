@@ -6,3 +6,5 @@
 4. Hit download
 5. Extract the files:
 6. Drag and drop your cfg folder or custom folder into Team Fortress 2\tf. Select replace all.
+
+**cfg files done thanks to [cfg.tf](https://cfg.tf/). [GitHub Repo Link](https://github.com/mkrl/cfgtf/)**   
