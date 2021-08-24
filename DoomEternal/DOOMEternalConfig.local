@@ -1,0 +1,11 @@
+// This file is for local settings only and will not be cloud synchronized
+configVersion 9
+r_waterLodViewDistance "32"
+r_windowHeight "1080"
+r_windowWidth "1920"
+r_fullscreen "2"
+r_mode "19"
+r_motionBlurQuality "1"
+r_blurRadialScale "0.6666"
+r_SSDOQuality "2"
+r_SSRQuality "1"
